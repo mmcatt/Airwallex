@@ -8,11 +8,12 @@ Test Airwalles's web app, automate following scenario:
 - Click and validate the payment details.
 
 ## Run test
-1. [Installing Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements), or [Download Cypress directly](https://download.cypress.io/desktop)
-2. Clone or dowload this project from github
+
+1. Clone or dowload this project from github
 ```bash
 git clone git@github.com:mmcatt/Airwallex.git
 ```
+2. [Installing Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements), or [Download Cypress directly](https://download.cypress.io/desktop)
 3. Open Cypress and choose Airwallex project
 4. Click spec.js, the test will automatically run
 
