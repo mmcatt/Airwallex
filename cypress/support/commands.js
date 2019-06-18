@@ -26,11 +26,13 @@
 Cypress.Commands.add('enterLoginPage', (loginflag) => {
     cy.contains(loginflag).click()
   })
+
 Cypress.Commands.add('login', (email, usernameV, password, passwordV, loginForm, loginText) => {
     cy.get(email).should('be.visible').wait(1000).type(usernameV)
     cy.get(password).should('be.visible').wait(500).type(passwordV)
     cy.get(loginForm).contains(loginText).click()
   })
+  
 Cypress.Commands.add('checkValue', (value, valueText, expectText) => {
     cy.get(value)
       .find(valueText)
