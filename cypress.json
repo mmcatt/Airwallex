@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://staging.airwallex.com/",
+    "env":{
+        "en":"./cypress/languages/en.json",
+        "zh":"./cypress/languages/zh.json",
+        "user":"./cypress/data/userdata.json"
+    }
+}

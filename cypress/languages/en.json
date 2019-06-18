@@ -1,0 +1,22 @@
+{
+    "root":"/",
+    "loginForm":"form[name=\"loginForm\"]",
+    "login":"Log in",
+    "dashboard":"/app/dashboard",
+    "filters":"Filters",
+    "paymentId":"input[name=\"paymentId\"]",
+    "footer_links":"[data-test=footer-links]",
+    "applyfilters":"Apply filters",
+    "primary_nav_payments":"[data-test=primary_nav_payments]",
+    "payment_activity_tab":"[data-test=payment_activity_tab]",
+    "type_value":"[data-test=type_value]",
+    "status_value":"[data-test=status_value]",
+    "account_id_value":"[data-test=account_id_value]",
+    "payment_id_value":"[data-test=payment_id_value]",
+    "request_id_value":"[data-test=request_id_value]",
+    "description_value":"[data-test=description_value]",
+    "paymentamount":"Payment amount",
+    "payment":"PAYMENT",
+    "dispatched":"Dispatched"
+
+}

@@ -1,0 +1,22 @@
+{
+    "root":"/zh-CN",
+    "loginForm":"form[name=\"loginForm\"]",
+    "login":"登录",
+    "dashboard":"/app/dashboard",
+    "filters":"列表筛选",
+    "paymentId":"input[name=\"paymentId\"]",
+    "footer_links":"[data-test=footer-links]",
+    "applyfilters":"筛选",
+    "primary_nav_payments":"[data-test=primary_nav_支付]",
+    "payment_activity_tab":"[data-test=交易列表_tab]",
+    "type_value":"[data-test=交易类型_value]",
+    "status_value":"[data-test=交易状态_value]",
+    "account_id_value":"[data-test=airwallex账户号_value]",
+    "payment_id_value":"[data-test=付款编号_value]",
+    "request_id_value":"[data-test=订单号_value]",
+    "description_value":"[data-test=description_value]",
+    "paymentamount":"付款金额",
+    "payment":"PAYMENT",
+    "dispatched":"已付款"
+
+}
