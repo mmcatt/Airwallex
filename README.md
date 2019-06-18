@@ -1,5 +1,5 @@
 # Test Web app using Cypress.io
-Test Airwalles's web app, automate following scenario:
+Test Airwallex's web app, automate following scenario:
 - Launch and login to Web app.
 - Click the LOG IN or 登录
 - Assert user have been successfully logged in
