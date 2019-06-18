@@ -9,7 +9,7 @@ Test Airwalles's web app, automate following scenario:
 
 ## Run test
 1. [Installing Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements), or [Download Cypress directly](https://download.cypress.io/desktop)
-2. Dowload this project from github
+2. Clone or dowload this project from github
 ```bash
 git clone git@github.com:mmcatt/Airwallex.git
 ```
