@@ -13,7 +13,7 @@ Test Airwalles's web app, automate following scenario:
 ```bash
 git clone git@github.com:mmcatt/Airwallex.git
 ```
-3. Open Cypress App, and choose Airwallex project
+3. Open Cypress and choose Airwallex project
 4. Click spec.js, the test will automatically run
 
 ## Change environments
